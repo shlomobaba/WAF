@@ -1,6 +1,0 @@
-username=admin&password=1234&Login=Login&user_token=5c1eaa77efcc4f9ae8edb6e1a0fdcd9d
-username=admin&password=password&Login=Login&user_token=6d07ddf812035650107477e854098803
-username=admin&password=password&Login=Login&user_token=27bff0e0c70fc28ba51ecc5acbfe2226
-username=admin&password=%D7%A4%D7%A9%D7%93%D7%93%27%D7%9D%D7%A8%D7%92&Login=Login&user_token=6c0efd8e47ff19ac8403f186168c0e30
-username=admin&password=password&Login=Login&user_token=a93debc6590022165232bfe940d83212
-username=admin&password=password&Login=Login&user_token=0cf4334d8a26282e88fb443482f67744
